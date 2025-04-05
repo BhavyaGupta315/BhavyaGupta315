@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhavya_gupta315" target="blank"><img src="https://img.shields.io/twitter/follow/bhavya_gupta315?logo=twitter&style=for-the-badge" alt="bhavya_gupta315" /></a> </p>
 
-- 🔭 I’m currently working on [Sehatify](https://github.com/BhavyaGupta315/Sehatify)
+- 🔭 I’m currently working on [GDG-DTU](https://github.com/gdgdtu/GDG_Official_Website)
 
 - 🌱 I’m currently learning **Web3, Docker, AWS and DSA**
 
