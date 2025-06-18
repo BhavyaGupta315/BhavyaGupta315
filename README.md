@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bhavya_gupta315" target="blank"><img src="https://img.shields.io/twitter/follow/bhavya_gupta315?logo=twitter&style=for-the-badge" alt="bhavya_gupta315" /></a> </p>
 
-- 🔭 I’m currently working on [GDG-DTU](https://github.com/gdgdtu/GDG_Official_Website)
+- 🔭 I’m currently working on [Colab-Draw](https://github.com/BhavyaGupta315/pen-drawio/)
 
-- 🌱 I’m currently learning **Web3, Docker, AWS and DSA**
+- 🌱 I’m currently learning **Web3 Client Side and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web 3 World**
 
